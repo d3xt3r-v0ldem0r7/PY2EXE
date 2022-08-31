@@ -1,12 +1,21 @@
 # PY2EXE
+simple python script compailer
 
-this is software will help you save the time instead
+this is software will help you to save the time instead
 you type a long command to compaile a python script
-(fun fact is you gonna compaile your python file in my software,
-which is also written in python, python script compaile in python script... lol)
-this is not gonna help you comapaile complex files
+
+(fun fact is you gonna compaile your python file in my software,which is also written in python,
+ python script compaile in python script wtf...lol)
+
+this is not gonna help you to compaile complex files & big prog like enterprise,etc...
 this is for newbies and who hate to type commands
 it compaile small & medium progs
+
+my prog is not new, it do the work same as pyinstaller
+it automate your work just do by gui and it execute the command
+depend on your file to the pyinstaller and pyinstaller process is 
+printed.
+
 { sry, i know the tkinter(gui) window hang when you compaile
   b'cos the pyinstaller output is printing in cmd console to
   show you if your file is have some compailing errors &
