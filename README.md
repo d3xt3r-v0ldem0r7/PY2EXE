@@ -18,7 +18,8 @@ printed.
 
 { sry, i know the tkinter(gui) window hang when you compaile
   b'cos the pyinstaller output is printing in cmd console to
-  show you if your file is have some compailing errors &
+  show you if your file is have some compailing errors, i gived
+  same design which i used in flames prog running out of time, 
   i write this in small time so i cant rectify the console &
   windowed func in as one func make sure i solve the prob 
   as soon as possible}
