@@ -1,3 +1,4 @@
+#!usr/bin/env python
 from lib2to3.pgen2.token import COMMA
 from tkinter import *
 from tkinter.font import BOLD
